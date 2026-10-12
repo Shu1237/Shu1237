@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Trần Minh Trí</h1>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=560&lines=Full-stack+Developer;Laravel+%C2%B7+NestJS+%C2%B7+React;FPT+University+%7C+Class+of+2026;Based+in+Ho+Chi+Minh+City" alt="Typing SVG" /></p>
-<p align="center"><a href="mailto:tranminhtri2812.working@gmail.com"><img src="https://img.shields.io/badge/Email-tranminhtri2812.working@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/tranminhtri2812/"><img src="https://img.shields.io/badge/LinkedIn-tranminhtri2812-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:tranminhtri2812.working@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
 
 ## 👨‍💻 About me
 
@@ -8,7 +8,7 @@ I'm a software engineering graduate from FPT University. I build production syst
 
 - 🔭 Working with Laravel, React and NestJS
 - 🌱 Leading a team of 5 on a capstone: Solar Battery Maintenance System
-- 📫 Reach me at tranminhtri2812.working@gmail.com
+- 📫 Reach me at tranminhtri2812.working@gmail.com or on [LinkedIn](https://www.linkedin.com/in/tranminhtri2812/)
 
 ## 🛠️ Tech stack
 
